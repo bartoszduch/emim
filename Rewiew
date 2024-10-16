@@ -1,0 +1,13 @@
+Ranking Flappy Birds:
+    1.GPT_SWE – Dobrze oceniona mechanika poruszania, dobra grafika, odpowiednia prędkość i zakres skoku, a także zaimplementowany licznik punktów.
+    2.Copilot / GPTo1 – Bardzo podobne oceny: dobra mechanika poruszania, grafika, prędkość i zakres skoków ocenione pozytywnie, ale brak licznika punktów.
+    3.GPT4mini – Grafika w porządku, ale zbyt duży zakres skoku i zbyt niska prędkość. Licznik punktów zaimplementowany.
+    4.GPT4o – Grafika i mechanika w porządku, licznik punktów zaimplementowany. Jednak brak otworów w słupkach, co sprawia, że gra jest niegrywalna.
+Ranking Snake:
+    1.GPT4o / GPT_SWE – Podstawowe funkcjonalności są bardzo dobrze zaimplementowane, licznik punktów obecny. Gry prawie identyczne.
+    2.GPT4mini – Ma menu główne, co jest istotną funkcjonalnością, ale brakuje licznika punktów. Mechanika poruszania nie tak dobra jak w grach z chatów GPT4o czy GPt_SWE
+    3.GPTo1 / Copilot – Podobne do wersji GPT4o, GPTSWE czy GPT4mini, ale bez licznika punktów i menu głównego.
+
+1.GPT_SWE stworzył najlepszą wersję Flappy Birds z dobrą mechaniką, grafiką, prędkością, zakresem skoków i zaimplementowanym licznikiem punktów.
+2.GPT04 ma poprawną wersję Snake, z licznikiem punktów i podstawowymi funkcjonalnościami, ale Flappy Birds jest niegrywalne z powodu braku otworów w słupkach.
+3.Copilot, GPTo1 i GPT4 oferują gry o dobrej mechanice, ale brakuje w nich istotnych funkcji jak licznik punktów czy menu.
