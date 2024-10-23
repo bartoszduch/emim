@@ -1,0 +1,14 @@
+1)  Napisz grę o labiryncie w pythonie. Widok gracza jest z pierwszej osoby, poruszamy się strzałkami przód, tył prawo lewo.
+    Przechodzimy labirynt nie wiedząc gdzie jest wyjście z labiryntu, labirynt jest układany losowo w momencie uruchomienia gry.
+    Gra kończy się jak osoba przejdzie labirynt to znaczy znajdzie wyjście. Interfejs nie musu być zaawansowany ma tylko symulować labirynt.
+    W labiryncie są różne ścieżki nie wszystkie są poprawne. na skrzyżowaniu dróg mamy do wyboru prawo, lewo lub prawo, lewo, przód.
+2)  Dodaj miejsce w którym labirynt się kończy. Po osiągnięciu miejsca w którym się kończy labirynt uruchom kolejny poziom.
+    Dodaj licznik poziomów i wyświetl na ekranie
+    //Po tym zapytaniu, musiałem zmienić ręcznie jedną linie kodu, żeby gra była
+      w stanie się zakończyć (funkcja check_exit)
+    Czat utworzył domyslnie miejsce  wktórym gra się kończy w prawym dolnym rogu.
+3)  Dodaj czas, który gracz będzie miał na przejście jak największej liczby labiryntów, na początek 10 sekund.
+    Po upływie tego czasu wyświetl komunikat o końcu czasu i ilośc osiągnietych pozioów w tym czasie
+4)  Dodaj na początku menu startowe gry w którym wpisuje się ilość czasu w jaką gracz przechodzi grę i następnie przyciskiem start uruchamia grę.
+    Na końcu wyświetl menu z osiągniętym poziomem i możliwością ponownego uruchomienia gry lub jej zamknięcia.
+5)  Rozszerz proszę ekran gry żeby nie ucinał napisów wyświetlających się na ekranie. Zmień kolory tekstu i tła menu na przyjemniejsze dla oka.
